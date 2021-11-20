@@ -4,8 +4,6 @@ In case of updates;
 
 1. Locally generate the site using: "bundle exec jekyll serve" and if bundles are missing, run "bundle" or "bundle install"
 
-2. Once the site is compiled, push the static site (_site) into "master" and the source files in "source" - branch. In order to upload the static site, RUN "rake publish".
-
 
 Based on Al-folio Jekyll theme
 
