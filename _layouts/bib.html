@@ -6,17 +6,14 @@
   {% if entry.abbr %}
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+	<!-- img class="col bibone first" src="{{ site.data.teasers[entry.abbr].img| prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}"-->
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
   {% endif %}
   
   
-  <div style="clear: both;">
-    <div style="">
-        <img class="col bibone first" src="{{ site.data.teasers[entry.abbr].img| prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-    </div>
-  </div>
+
   
   {% if entry.award %}
     {% if site.data.venues[entry.award] %}
