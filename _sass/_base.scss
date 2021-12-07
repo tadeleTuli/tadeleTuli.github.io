@@ -212,7 +212,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -436,7 +436,7 @@ footer.sticky-bottom {
           border-bottom: 1px dashed var(--global-theme-color);
           &:hover {
               border-bottom-style: solid;
-              text-decoration: none;
+              text-decoration: blue;
           }
         }
         > em {

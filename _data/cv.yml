@@ -6,7 +6,7 @@
   - name: Contact
     value: tademech2008 [at] gmail [dot] com
   - name: Languages
-    value: Oromo, Amharic (native), English (fluent), German (B1)
+    value: Oromo(mother tongue), Amharic (native), English (fluent), German (B1)
 
 - title: Research Areas
   type: list
@@ -36,18 +36,20 @@
     year: 2010 - 2012
     location: Ethiopia
     description:
-    - 'Advised by Ass. Prof. Wasihun Yimer'
+    - 'Advised by Assist. Prof. Wasihun Yimer'
     - 'Thesis: <i> Finite Element Analysis of Bus Body Structures: Case study at Bishoftu Automotive and Locomotive Industry, Ethiopia </i>'
   - title: Bahir Dar University - B.Sc. in Mechanical Engineering
     year: 2004 - 2008
     location: Ethiopia
-
+    description:
+    - 'Advised by <a href="https://bit.bdu.edu.et/fmie/?q=node/297" target="_blank"><b>Assoc. Prof. Muluwork Kahsay</b></a>'
+    - 'Thesis: <i> Design of Solar Based water purification system  </i>'
 
 - title: Work Experience
   type: table
   contents:
   - title: 'Wissenschaftlicher Mitarbeiter'
-    year: 2017 - now
+    year: Sept. 2017 - now
     location: DE
     description:
       - 'Teaching'

@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.uni-siegen.de">Uni-Siegen</a>. Paul-Bonatz 9-11, Siegen, Germany.
+description: <a href="https://www.uni-siegen.de">Universität Siegen</a>. Paul-Bonatz 9-11, Siegen, Germany.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p> Tel: +49015906731968</p>
     <p>Siegen, Germany</p>
