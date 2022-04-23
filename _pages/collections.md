@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Collections
+permalink: /collections/
 description: Collection of my projects.
 nav: true
 display_categories: [work, fun]

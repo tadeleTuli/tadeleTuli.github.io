@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: classes, workshops, and teaching material
-nav: teaching
 ---
 
 ### Univeristy of Siegen, Germany

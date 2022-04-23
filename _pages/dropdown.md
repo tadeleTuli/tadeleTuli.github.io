@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Others
+title: Codes
 nav: true
 dropdown: true
 children: 
-    - title: Codes
-      permalink: /codes/
+    - title: HARNets
+      permalink: https://tadeletuli.com/HARNets/
     - title: divider
-    - title: research
-      permalink: /research/
+    - title: X-HAR
+      permalink: https://tadeletuli.com/explainable-HAR/
     - title: divider
-    - title: Hobby
-      permalink: /Hobby/
+    - title: ROS
+      permalink: https://tadeletuli.com/Getting-fast-into-ROS/ 
+    - title: divider
 ---

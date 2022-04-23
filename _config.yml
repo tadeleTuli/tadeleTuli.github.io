@@ -57,7 +57,7 @@ scholar_userid: 1E7yz60AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-6769-0646 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: tadele-belay-tuli # your ID on Publons
+publons_id: AAW-2703-2020 # your ID on Publons
 research_gate_profile: Tadele-Tuli-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://protech.mb.uni-siegen.de/fams/team/tuli.html # work page URL
@@ -78,7 +78,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Blogs  # your blog must have a name for it to show up in the nav bar
+blog_name: My Activities  # your blog must have a name for it to show up in the nav bar
 blog_description: Blogs, tutorials, and opinions
 permalink: /blog/:year/:title/
 
