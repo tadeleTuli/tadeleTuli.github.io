@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Collections
 permalink: /collections/
+title: Collections
 description: Collection of my projects.
-nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
