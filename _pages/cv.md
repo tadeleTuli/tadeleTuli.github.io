@@ -5,6 +5,27 @@ title: Curriculum vitae
 nav: cv
 ---
 
+
+<style>
+    /* Add this style to change the text background color within the cards */
+    .card {
+        background-color: rgba(255, 255, 255, 0); /* Replace with your preferred card background color */
+    }
+
+    .card-title,
+    .card-text,
+    .list-group-item,
+    .font-weight-light,
+    .badge,
+    .title,
+    .item-title,
+	.table	{
+        background-color: rgba(255, 255, 255, 0); /* Replace with your preferred text background color */
+    }
+</style>
+
+
+
 <!-- Place PDF download link at the top right. -->
 <div class="row" style="margin-top: -3.5em;">
 	<a class="ml-auto mr-2" href="/assets/pdf/TULI_CV.pdf" target="_blank">

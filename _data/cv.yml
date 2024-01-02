@@ -4,28 +4,29 @@
   - name: Full Name
     value: Tadele Belay Tuli
   - name: Contact
-    value: tademech2008 [at] gmail [dot] com
+    value: tadele.tuli [at] gmail [dot] com
   - name: Languages
-    value: Oromo(mother tongue), Amharic (native), English (fluent), German (B1)
+    value: Afan Oromo(mother tongue), Amharic (native), English (fluent), German (B1)
 
 - title: Research Areas
   type: list
   contents:
-  - My research focuses on developing interpretable human motions for human robot collaboration focusing on assembly application.
-  - I am also interested in Additive manufacturing or 3D printing.
-  - I have also worked on machine learning methods for human motion, and activity recognition.
+  - Human motion modeling and analysis
+  - Collaborative robot workplace designs
+  - Digital twin modeling and implementation
+  - Additive manufacturing based product customization
 
 - title: Education
   type: table
   contents:
-  - title: Universität Siegen – Ph.D. candidate 
+  - title: Universität Siegen – Research 
     year: 2017 - now
     location: DE
     description:
-    - 'Advised by <a href="https://protech.mb.uni-siegen.de/fams/team/manns.html" target="_blank"><b>Prof.Dr.-Ing Martin Manns</b></a>'
+    - 'Advised by <a href="https://protech.mb.uni-siegen.de/" target="_blank"><b>XXX</b></a>'
     - 'Thesis: xx'
     - 'Thesis committee: xx'
-  - title: University of Trento – M.S. in Mechatronics Engineering
+  - title: University of Trento – M.Sc. in Mechatronics Engineering
     year: 2012 - 2015
     location: Italy
     description:
@@ -42,7 +43,7 @@
     year: 2004 - 2008
     location: Ethiopia
     description:
-    - 'Advised by <a href="https://bit.bdu.edu.et/fmie/?q=node/297" target="_blank"><b>Assoc. Prof. Muluwork Kahsay</b></a>'
+    - 'Advised by <a href="https://bit.bdu.edu.et/fmie/" target="_blank"><b>Assoc. Prof. Muluwork Kahsay</b></a>'
     - 'Thesis: <i> Design of Solar Based water purification system  </i>'
 
 - title: Work Experience
@@ -57,6 +58,9 @@
   - title: 'Lecturer and Associate dean'
     year: 'Sept. 2016 - Sept. 2017'
     location: Ethiopia
+    description:
+      - 'Teaching'
+      - 'Consultation'
   
 
 - title: Other Interests
