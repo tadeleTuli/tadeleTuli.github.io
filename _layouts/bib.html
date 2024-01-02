@@ -1,6 +1,16 @@
 ---
 ---
 
+<style>
+  .abbr .badge,
+  .award .badge {
+    max-width: 120px; /* Adjust the value to your preferred width */
+    overflow: hidden;
+    text-overflow: ellipsis; /* Adds an ellipsis (...) for overflow text */
+  }
+</style>
+
+
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
