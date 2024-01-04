@@ -78,9 +78,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Activities  # your blog must have a name for it to show up in the nav bar
-blog_description: Blogs, tutorials, and opinions
-permalink: /blog/:year/:title/
+blog_name: Open projects  # your blog must have a name for it to show up in the nav bar
+blog_description: Projects, Blogs, Tutorials, and Opinions
+permalink: /Projects/:year/:title/
 
 # Pagination
 pagination:
@@ -172,9 +172,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year: '/projects/:year/'
+    tag: '/projects/tag/:name/'
+    category: '/projects/category/:name/'
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
